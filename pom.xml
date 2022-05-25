@@ -7,7 +7,7 @@
   <name>Phonebook</name>
   <description>Simple phonebook app using Spring Framework</description>
   <properties>
-    <spring.version>5.2.7.RELEASE</spring.version>
+    <spring.version>5.2.22.RELEASE</spring.version>
     <hibernate.version>5.4.1.Final</hibernate.version>
     <mysql.version>8.0.16</mysql.version>
     <junit.version>4.12</junit.version>
